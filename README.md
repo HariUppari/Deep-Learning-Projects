@@ -1,4 +1,4 @@
-# Deep-Learning-Projects
+## Deep-Learning-Projects/Convolutional Neural Network (CNN) using the CIFAR-10 dataset.
 
 Introduction
 
@@ -14,3 +14,6 @@ This project involves building and training a Convolutional Neural Network (CNN)
 - Prediction and Visualization - Visualizing predictions made by the trained CNN on test data to observe the model's ability to correctly classify images.
 
 This project highlights the power of CNNs in tackling image classification problems and demonstrates how to effectively implement a CNN for classifying images from the CIFAR-10 dataset.
+
+## Deep-Learning-Projects/Convolutional Neural Network (CNN) using the CIFAR-10 dataset.
+
