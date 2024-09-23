@@ -15,5 +15,19 @@ This project involves building and training a Convolutional Neural Network (CNN)
 
 This project highlights the power of CNNs in tackling image classification problems and demonstrates how to effectively implement a CNN for classifying images from the CIFAR-10 dataset.
 
-## Deep-Learning-Projects/Convolutional Neural Network (CNN) using the CIFAR-10 dataset.
+## Deep-Learning-Projects/Neural Network project on Pima  Diabetes dataset
+
+Introduction
+
+This project involves building and training a Neural Network (NN) to predict the likelihood of diabetes in patients using the Pima  Diabetes dataset. The dataset contains several health-related variables such as blood pressure, BMI, and glucose levels, which are used to predict whether a patient is likely to develop diabetes. The project showcases the application of deep learning techniques to solve a binary classification problem. Key steps and techniques used in this project include:
+
+- Data Preprocessing - Loading, cleaning, and preparing the dataset for neural network training. This includes handling missing values, normalizing the data using StandardScaler, and splitting it into training and test sets.
+- Neural Network Architecture - Designing a neural network with multiple layers using Keras and TensorFlow, including input, hidden, and output layers, optimized for binary classification.
+- Activation Functions - Utilizing activation functions such as ReLU in the hidden layers and sigmoid in the output layer for binary classification.
+- Cross-Validation - Applying K-fold cross-validation to evaluate the model’s performance and ensure its generalizability on unseen data.
+- Model Training and Evaluation - Training the neural network using various optimization techniques and evaluating its performance using metrics such as accuracy, precision, recall, and F1-score.
+- Visualization - Plotting learning curves and other relevant graphs to monitor the performance of the model throughout the training process.
+
+This project highlights how neural networks can be used for medical diagnosis tasks such as predicting diabetes risk based on patient data. It demonstrates the effectiveness of deep learning models in classification problems and provides a robust framework for further improvements and experimentation.
+
 
